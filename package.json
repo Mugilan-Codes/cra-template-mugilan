@@ -2,7 +2,6 @@
   "name": "cra-template-mugilan",
   "version": "0.1.0",
   "description": "The base template for Mugilan's CRA",
-  "private": true,
   "author": "Mugilan E.S. <mugilancodes@gmail.com>",
   "license": "MIT",
   "dependencies": {
