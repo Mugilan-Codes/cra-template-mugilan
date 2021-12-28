@@ -1,8 +1,8 @@
 import { Routes, Route } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 
-import HomePage from './pages/Home';
-import AboutPage from './pages/About';
+import HomePage from 'pages/Home';
+import AboutPage from 'pages/About';
 import './App.css';
 
 function App() {
