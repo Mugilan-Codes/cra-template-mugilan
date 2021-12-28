@@ -2,10 +2,18 @@
 
 ## A Create React App Template by [Mugilan](https://www.github.com/Mugilan-Codes)
 
+```bash
+npx create-react-app my-app --template cra-template-mugilan
+```
+
+- [npm](https://www.npmjs.com/package/cra-template-mugilan)
+- [github](https://github.com/Mugilan-Codes/cra-template-mugilan)
+
 ### Packages
 
 - [React Router](https://reactrouter.com/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
+- [React Router Bootstrap](https://github.com/react-bootstrap/react-router-bootstrap)
 
 #### Inspiration
 
