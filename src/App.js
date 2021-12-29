@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 
 import HomePage from 'Pages/Home';
@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <>
+    <BrowserRouter>
       <NavigationBar />
 
       <Container>
@@ -19,7 +19,7 @@ function App() {
           <Route path='about' element={<AboutPage />} />
         </Routes>
       </Container>
-    </>
+    </BrowserRouter>
   );
 }
 
