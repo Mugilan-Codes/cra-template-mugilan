@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-import { LinkContainer } from 'react-router-bootstrap';
 import Button from 'react-bootstrap/Button';
 
 const AboutPage = () => {
@@ -10,9 +9,9 @@ const AboutPage = () => {
 
         <p>That feels like an existential question, don't you think?</p>
 
-        <LinkContainer to='/'>
-          <Button>Go To Home</Button>
-        </LinkContainer>
+        <Button as={Link} to='/'>
+          Go to Home
+        </Button>
       </main>
 
       <nav>
