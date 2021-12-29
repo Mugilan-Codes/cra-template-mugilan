@@ -1,9 +1,9 @@
 import { Routes, Route } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 
-import HomePage from 'pages/Home';
-import AboutPage from 'pages/About';
-import NavigationBar from 'components/NavigationBar';
+import HomePage from 'Pages/Home';
+import AboutPage from 'Pages/About';
+import NavigationBar from 'Components/NavigationBar';
 import './App.css';
 
 function App() {
