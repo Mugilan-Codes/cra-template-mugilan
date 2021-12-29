@@ -13,6 +13,7 @@ npx create-react-app my-app --template cra-template-mugilan
 
 - [React Router](https://reactrouter.com/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
+- Firebase
 
 #### Inspiration
 
