@@ -1,5 +1,5 @@
-import { Link } from 'react-router-dom';
-import Button from 'react-bootstrap/Button';
+import { Link } from 'react-router-dom'
+import Button from 'react-bootstrap/Button'
 
 const HomePage = () => {
   return (
@@ -18,7 +18,7 @@ const HomePage = () => {
         <Link to='/about'>About</Link>
       </nav>
     </>
-  );
-};
+  )
+}
 
-export default HomePage;
+export default HomePage
