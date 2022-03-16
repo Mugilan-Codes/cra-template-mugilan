@@ -27,6 +27,7 @@ npx create-react-app my-app --template cra-template-mugilan
   - [Authentication](https://firebase.google.com/docs/auth/web/start)
   - [Cloud Firestore](https://firebase.google.com/docs/firestore/quickstart)
   - [Cloud Storage](https://firebase.google.com/docs/storage/web/start)
+- [React Bootstrap Forms: Simple and Multi-Step Forms](https://ordinarycoders.com/blog/article/react-bootstrap-forms)
 
 ##### Firebase helpers
 
